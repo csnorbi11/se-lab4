@@ -1,0 +1,2 @@
+No ship has been initialized
+Invalid numerical arguments passed: For input string: "l"
